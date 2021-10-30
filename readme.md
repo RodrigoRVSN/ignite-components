@@ -10,9 +10,9 @@
 
 <!--- #################### mudar badges #################### --->
 
-![image](https://user-images.githubusercontent.com/75763403/136711209-4372cee1-13d0-4916-8323-4e72a7314158.png)
+![image](https://user-images.githubusercontent.com/75763403/136712064-19ee67ef-9613-4c8d-b8c8-9db9185c7d13.png)
 
-<!--- #################### mudar exemplo #################### --->
+<!--- #################### mudar imagem exemplo #################### --->
 
 > App to se a list of movies by category
 
